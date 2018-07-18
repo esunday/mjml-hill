@@ -1,0 +1,16 @@
+<mj-section css-class="weekly-promo" background-url="https://i.imgur.com/oQOsY72.jpg" background-size="cover" background-repeat="no-repeat">
+  <mj-column css-class="overlay">
+  </mj-column>
+
+  <mj-column css-class="text-block">
+    <mj-text color="white" css-class="center-text">
+      <h2 class="section-title">Weekly Promotion</h2>
+      <h3>0% Interest or Save $1,500</h3>
+      <p>Stay cool this summer with a brand new HVAC system!</p>
+    </mj-text>
+    <mj-button css-class="button-wide" width="192px" background-color="none" border="2px solid white" color="white" href="#">
+      Learn More
+    </mj-button>
+  </mj-column>
+
+</mj-section>

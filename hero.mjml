@@ -1,0 +1,15 @@
+    <mj-section css-class="hero" background-url="https://i.imgur.com/wSUC3RT.jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-column css-class="overlay">
+      </mj-column>
+
+      <mj-column css-class="text-block">
+        <mj-text color="white" css-class="center-text">
+          <h1 class="section-title">Keep Your Water Flowing</h1>
+          <p>Hiller will be there in a snap to fix your plumbing, heating, cooling, and electrical issues.</p>
+        </mj-text>
+        <mj-button css-class="button-wide" width="192px" background-color="none" border="2px solid white" color="white" href="#">
+          Learn More
+        </mj-button>
+      </mj-column>
+
+    </mj-section>

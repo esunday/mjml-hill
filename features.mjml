@@ -1,0 +1,40 @@
+    <mj-wrapper css-class="features-wrapper" padding="0">
+
+      <mj-section css-class="feat-1" padding="0">
+
+        <mj-column>
+          <mj-image css-class="feat-image" src="https://i.imgur.com/ilO3yDh.jpg" />
+        </mj-column>
+
+        <mj-column css-class="feat-col">
+          <mj-text>
+            <h3 class="blue-head">Spring Cleaning Checklist</h3>
+            <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
+          </mj-text>
+          <mj-button css-class="button-norm" border="2px solid #0098dc" color="white" width="125px" href="#">
+            Read More
+          </mj-button>
+        </mj-column>
+
+      </mj-section>
+
+      <mj-section css-class="feat-2" padding="0">
+
+        <mj-column css-class="feat-col">
+          <mj-text>
+            <h3 class="blue-head">Time to Change Your Air Filter</h3>
+            <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
+          </mj-text>
+          <mj-button css-class="button-norm" width="125px" border="2px solid #0098dc" color="white" href="#">
+            Read More
+          </mj-button>
+        </mj-column>
+
+        <mj-column>
+          <mj-image css-class="feat-image" src="https://i.imgur.com/CnWBTf2.jpg" />
+        </mj-column>
+
+
+      </mj-section>
+
+    </mj-wrapper>

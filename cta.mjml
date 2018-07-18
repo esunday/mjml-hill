@@ -1,0 +1,19 @@
+<mj-section css-class="cta" background-url="https://i.imgur.com/XLrNWLp.jpg" background-size="cover" background-repeat="no-repeat">
+
+  <mj-column css-class="overlay">
+
+  </mj-column>
+
+  <mj-column css-class="text-block">
+    <mj-text color="white" css-class="center-text">
+      <h2>Happy Hillers Are Available 24/7!</h2>
+      <p>We would love for you to join the Happy Hiller Club family and we hope to keep you happy for many years to come.</p>
+
+      <p>Learn more about our Happy Hiller Club and everything it has to offer by visting our <a href="#">Happy Hiller Club Page.</a></p>
+    </mj-text>
+    <mj-button css-class="button-wide" width="192px" background-color="none" border="2px solid white" color="white" href="#">
+      Contact Us
+    </mj-button>
+  </mj-column>
+
+</mj-section>

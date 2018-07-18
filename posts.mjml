@@ -1,0 +1,45 @@
+    <mj-section css-class="posts-feed" background-color="">
+      <mj-column css-class="single-post-img">
+        <mj-image css-class="post-img" src="https://i.imgur.com/ujfHQMr.jpg" />
+      </mj-column>
+
+      <mj-column css-class="single-post">
+        <mj-text css-class="post-text">
+          <h3 class="blue-head">Hiller is Hiring</h3>
+          <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
+          <p><a href="#">Read More</a></mj-text>
+        </p>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-section css-class="posts-feed" background-color="">
+      <mj-column css-class="single-post-img">
+        <mj-image css-class="post-img" src="https://i.imgur.com/hy9eMnT.jpg" />
+      </mj-column>
+
+      <mj-column css-class="single-post">
+        <mj-text css-class="post-text">
+          <h3 class="blue-head">True Transparency Pricing</h3>
+          <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
+          <p><a href="#">Read More</a></mj-text>
+        </p>
+      </mj-column>
+
+    </mj-section>
+
+
+    <mj-section css-class="posts-feed" background-color="">
+      <mj-column css-class="single-post-img">
+        <mj-image css-class="post-img" src="https://i.imgur.com/1aAN8la.jpg" />
+      </mj-column>
+
+      <mj-column css-class="single-post">
+        <mj-text css-class="post-text">
+          <h3 class="blue-head">Jimmy’s Fundamental of the Week</h3>
+          <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
+          <p><a href="#">Read More</a></mj-text>
+        </p>
+      </mj-column>
+
+    </mj-section>

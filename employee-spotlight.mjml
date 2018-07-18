@@ -1,0 +1,78 @@
+<mj-wrapper css-class="employee-section">
+
+
+
+  <mj-section css-class="employee-title">
+    <mj-column>
+      <mj-text css-class="center-text">
+        <h2 class="blue-head section-title">Employee Spotlight</h2>
+      </mj-text>
+    </mj-column>
+
+  </mj-section>
+
+
+
+  <mj-section css-class="employee-1" background-color="#edf6ff">
+
+
+    <mj-column css-class="employee-img">
+      <mj-image src="https://i.imgur.com/snDADoM.jpg" />
+    </mj-column>
+
+    <mj-column css-class="employee-text">
+      <mj-text>
+        <h3 class="blue-head">Jim Halpert</h3>
+        <p>Praesent eu sapien vel mauris laoreet scelerisque. Morbi feugiat a tellus quis faucibus. Aenean dapibus nec enim id fringilla. Proin maximus malesuada tristique. Nulla a volutpat.</p>
+        <p><a href="#">Read Jim's Bio</a></p>
+      </mj-text>
+    </mj-column>
+
+  </mj-section>
+
+
+
+  <mj-section css-class="employee-2" background-color="">
+
+    <mj-group css-class="question-group">
+
+      <mj-column css-class="question-col">
+        <mj-text>
+          <p class="question">What’s your perfect Sunday?</p>
+          <p class="answer">Praesent eu sapien vel mauris laoreet scelerisque. Morbi feugiat a tellus quis faucibus. Aenean dapibus nec enim.</p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column css-class="question-col">
+        <mj-text>
+          <p class="question">What’s your perfect Sunday?</p>
+          <p class="answer">Praesent eu sapien vel mauris laoreet scelerisque. Morbi feugiat a tellus quis faucibus. Aenean dapibus nec enim.</p>
+        </mj-text>
+      </mj-column>
+
+    </mj-group>
+
+    <mj-group css-class="question-group">
+
+      <mj-column css-class="question-col">
+        <mj-text>
+          <p class="question">What’s your perfect Sunday?</p>
+          <p class="answer">Praesent eu sapien vel mauris laoreet scelerisque. Morbi feugiat a tellus quis faucibus. Aenean dapibus nec enim.</p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column css-class="question-col">
+        <mj-text>
+          <p class="question">What’s your perfect Sunday?</p>
+          <p class="answer">Praesent eu sapien vel mauris laoreet scelerisque. Morbi feugiat a tellus quis faucibus. Aenean dapibus nec enim.</p>
+        </mj-text>
+      </mj-column>
+
+    </mj-group>
+
+  </mj-section>
+
+
+
+
+</mj-wrapper>
