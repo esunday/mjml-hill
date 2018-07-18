@@ -1,21 +1,13 @@
 <mjml>
 
   <mj-head>
-
     <mj-attributes>
-      <mj-text color="#6c879d" line-height="20px" />
-      <mj-button background-color="#0098dc" border-radius="6px">
-      </mj-button>
+      <mj-all font-family="Arial" color="#6c879d"/>
+      <mj-text font-size="14px" />
     </mj-attributes>
-
-    <mj-raw>
-      <!-- inject:css -->
-      <!-- endinject -->
-    </mj-raw>
-
   </mj-head>
 
-  <mj-body font-family="Helvetica, Arial, Ubuntu, sans-serif">
+  <mj-body>
 
     <mj-include path="./header.mjml" />
 

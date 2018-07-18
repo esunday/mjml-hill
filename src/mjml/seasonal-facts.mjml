@@ -1,46 +1,37 @@
-    <mj-wrapper css-class="seasonal-wrapper" background-color="#edf6ff" padding="0">
+<mj-wrapper 
+  vertical-align="middle"
+  css-class="seasonal-wrapper" 
+  background-color="#edf6ff" 
+  padding="0">
+  <mj-section>
+    <mj-column>
+      <mj-text align="center">
+        <h2>Seasonal Facts</h2>
+        <p>Memorial Day is also called Decoration Day because of the tradition of mourners honoring Civil War dead by decorating their graves with flowers.</p>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section css-class="seasonal-2">
+    <mj-column css-class="season-col" background-color="white">
+      <mj-image css-class="season-img" src="https://i.imgur.com/eSm5UZJ.jpg" />
+      <mj-text css-class="season-text">
+        <h4 class="blue-head">Memorial Day Fruity Coleslaw Recipe</h4>
+        <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
+      </mj-text>
+      <mj-button css-class="button-wide" width="192px" href="#">
+        Get Recipe
+      </mj-button>
+    </mj-column>
 
-
-
-      <mj-section css-class="seasonal-1" background-color="">
-        <mj-column>
-          <mj-text css-class="center-text">
-            <h2 class="blue-head section-title">Seasonal Facts</h2>
-            <p class="season-intro">Memorial Day is also called Decoration Day because of the tradition of mourners honoring Civil War dead by decorating their graves with flowers.</p>
-          </mj-text>
-        </mj-column>
-
-      </mj-section>
-
-
-
-      <mj-section css-class="seasonal-2">
-
-        <mj-column css-class="season-col" background-color="white">
-          <mj-image css-class="season-img" src="https://i.imgur.com/eSm5UZJ.jpg" />
-          <mj-text css-class="season-text">
-            <h4 class="blue-head">Memorial Day Fruity Coleslaw Recipe</h4>
-            <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
-          </mj-text>
-          <mj-button css-class="button-wide" width="192px" href="#">
-            Get Recipe
-          </mj-button>
-        </mj-column>
-
-        <mj-column css-class="season-col" background-color="white">
-          <mj-image css-class="season-img" src="https://i.imgur.com/6CV5NNJ.jpg" />
-          <mj-text css-class="season-text">
-            <h4 class="blue-head">Top 10 Ways to Beat the Summer Heat</h4>
-            <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
-          </mj-text>
-          <mj-button css-class="button-wide" width="192px" href="#">
-            Read More
-          </mj-button>
-        </mj-column>
-
-      </mj-section>
-
-
-
-
-    </mj-wrapper>
+    <mj-column css-class="season-col" background-color="white">
+      <mj-image css-class="season-img" src="https://i.imgur.com/6CV5NNJ.jpg" />
+      <mj-text css-class="season-text">
+        <h4 class="blue-head">Top 10 Ways to Beat the Summer Heat</h4>
+        <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
+      </mj-text>
+      <mj-button css-class="button-wide" width="192px" href="#">
+        Read More
+      </mj-button>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>
