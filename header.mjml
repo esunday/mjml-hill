@@ -1,0 +1,12 @@
+<mj-section css-class="email-header" background-color="#002c4a">	
+  
+  <mj-column>
+    <mj-image width="" src="https://i.imgur.com/rtluJY1.png" /></mj-column>
+
+  <mj-column>
+    <mj-text color="white" text-transform="uppercase">		
+      <h4>Hiller Highlights</h4>
+    </mj-text>
+  </mj-column>
+
+</mj-section>

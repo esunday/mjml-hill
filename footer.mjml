@@ -1,0 +1,10 @@
+<mj-section background-color="#002c4a">
+
+  <mj-column>
+    <mj-image width="175px" src="https://i.imgur.com/rtluJY1.png" />
+    
+    <mj-text>
+    </mj-text>
+  </mj-column>
+
+</mj-section>
