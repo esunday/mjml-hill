@@ -1,6 +1,7 @@
 const gulp = require('gulp')
 const mjml = require('gulp-mjml')
 const del = require('del')
+const mjmlEngine = require('mjml')
 
 const browserSync = require('browser-sync');
 const server = browserSync.create();
@@ -22,8 +23,9 @@ function serve(done) {
 const clean = () => del(['dist']);
 
 const email = () => {
-    return gulp.src('./src/mjml/index.mjml')
-    .pipe(mjml())
+  return gulp.src('./src/mjml/index.mjml')
+    // .pipe(mjml(mjmlEngine, {minify: true}))
+    .pipe(mjml(mjmlEngine, {}))
     .pipe(gulp.dest('./dist'))
 }
 

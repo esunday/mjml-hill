@@ -2807,7 +2807,7 @@ mjml-wrapper@^4.1.0:
     mjml-core "^4.1.0"
     mjml-section "^4.1.0"
 
-mjml@^4.0.0:
+mjml@^4.0.0, mjml@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/mjml/-/mjml-4.1.0.tgz#ebc4a64d2fb7c255c20cbb320c4ed1e300eb4675"
   dependencies:
