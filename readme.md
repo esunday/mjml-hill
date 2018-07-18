@@ -1,0 +1,1 @@
+`mjml --watch index.mjml -o index.html`

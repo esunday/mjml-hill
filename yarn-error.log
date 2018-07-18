@@ -1,0 +1,43 @@
+Arguments: 
+  /usr/local/Cellar/node@8/8.11.3_1/bin/node /usr/local/Cellar/yarn/1.7.0/libexec/bin/yarn.js add -D gulp-mjml
+
+PATH: 
+  /usr/local/opt/node@8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/opt/node@8/bin:./node_modules/.bin:./node_modules/.bin
+
+Yarn version: 
+  1.7.0
+
+Node version: 
+  8.11.3
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/erin/mjml/Hiller Plumbing/package.json: Unexpected string in JSON at position 122
+      at JSON.parse (<anonymous>)
+      at /usr/local/Cellar/yarn/1.7.0/libexec/lib/cli.js:1130:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.7.0/libexec/lib/cli.js:98:30)
+      at /usr/local/Cellar/yarn/1.7.0/libexec/lib/cli.js:109:13
+      at <anonymous>
+
+npm manifest: 
+  {
+    "name": "Hiller Plumbing",
+    "version": "0.0.1",
+    "dependencies": {
+      "gulp": "^4.0.0",
+      "mjml": "^4.1.0"
+    }
+    "scripts": {
+      "start": "gulp watch",
+      "build": "gulp build"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
