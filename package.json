@@ -1,0 +1,7 @@
+{
+  "name": "Hiller Plumbing",
+  "version": "0.0.1",
+  "dependencies": {
+    "mjml": "^4.1.0"
+  }
+}
