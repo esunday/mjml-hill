@@ -8,10 +8,10 @@
       </mj-button>
     </mj-attributes>
 
-    <mj-style>
-
-
-    </mj-style>
+    <mj-raw>
+      <!-- inject:css -->
+      <!-- endinject -->
+    </mj-raw>
 
   </mj-head>
 
