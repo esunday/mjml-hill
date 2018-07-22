@@ -13,7 +13,7 @@
       color="#ffffff" 
       align="right"
       text-transform="uppercase">		
-      <h4 style="margin-top: 0; margin-bottom: 0">Hiller Highlights</h4>
+      <h4 style="margin-top: 0; margin-bottom: 0; font-size:16; letter-spacing: 2px;">Hiller Highlights</h4>
     </mj-text>
   </mj-column>
 

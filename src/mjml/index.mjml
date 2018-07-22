@@ -3,7 +3,8 @@
   <mj-head>
     <mj-attributes>
       <mj-all font-family="Arial" color="#6c879d"/>
-      <mj-text font-size="14px" />
+      <mj-text font-size="14px"/>
+      <mj-text css-class="single-question" padding="0 15px" font-size="14px"/>
     </mj-attributes>
   </mj-head>
 

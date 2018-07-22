@@ -1,35 +1,48 @@
 <mj-wrapper 
+background-color="#edf6ff"
   vertical-align="middle"
   css-class="seasonal-wrapper" 
-  background-color="#edf6ff" 
   padding="0">
   <mj-section>
-    <mj-column>
-      <mj-text align="center">
-        <h2>Seasonal Facts</h2>
-        <p>Memorial Day is also called Decoration Day because of the tradition of mourners honoring Civil War dead by decorating their graves with flowers.</p>
+    <mj-column padding="0">
+      <mj-text align="center" padding-bottom="0">
+        <h2 style="font-size:13px;letter-spacing:5px;text-transform:uppercase;color:#002d4a">Seasonal Facts</h2>
+        <p style="line-height: 22px; font-style: italic;">Memorial Day is also called Decoration Day because of the tradition of mourners honoring Civil War dead by decorating their graves with flowers.</p>
       </mj-text>
     </mj-column>
   </mj-section>
   <mj-section css-class="seasonal-2">
-    <mj-column css-class="season-col" background-color="white">
-      <mj-image css-class="season-img" src="https://i.imgur.com/eSm5UZJ.jpg" />
-      <mj-text css-class="season-text">
-        <h4 class="blue-head">Memorial Day Fruity Coleslaw Recipe</h4>
-        <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
+    <mj-column css-class="season-col" border-bottom="20px solid #edf6ff" border-left="40px solid #edf6ff" border-right="10px solid #edf6ff" border-top="0" padding-bottom="15px" background-color="#fff">
+      <mj-image css-class="season-img" padding="0" src="https://i.imgur.com/vv76aa5.jpg" />
+      <mj-text css-class="season-text" height="150px" padding-bottom="0">
+        <h4 class="blue-head" style="font-size:20px; line-height: 24px; margin-bottom: 15px;">Memorial Day Fruity Coleslaw Recipe</h4>
+        <p style="line-height: 22px;">Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
       </mj-text>
-      <mj-button css-class="button-wide" width="192px" href="#">
+    </mj-button>
+      <mj-button css-class="button-wide" 
+      width="192px" 
+      background-color="#0098dc" 
+      color="#ffffff" 
+      padding="0 30px 15px 30px" 
+      border-radius="3px"
+      href="#">
         Get Recipe
       </mj-button>
     </mj-column>
 
-    <mj-column css-class="season-col" background-color="white">
-      <mj-image css-class="season-img" src="https://i.imgur.com/6CV5NNJ.jpg" />
-      <mj-text css-class="season-text">
-        <h4 class="blue-head">Top 10 Ways to Beat the Summer Heat</h4>
-        <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
+    <mj-column css-class="season-col" border-bottom="20px solid #edf6ff" border-left="10px solid #edf6ff" border-right="40px solid #edf6ff" border-top="0" padding-bottom="15px" background-color="#fff">
+      <mj-image css-class="season-img" padding="0" src="https://i.imgur.com/PFZz5gh.jpg" />
+      <mj-text css-class="season-text" height="150px" padding-bottom="0">
+        <h4 class="blue-head" style="font-size:20px; line-height: 24px; margin-bottom: 15px;">Top 10 Ways to Beat the Summer Heat</h4>
+        <p style="line-height: 22px; margin-bottom:0;">Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
       </mj-text>
-      <mj-button css-class="button-wide" width="192px" href="#">
+      <mj-button css-class="button-wide" 
+      width="192px" 
+      background-color="#0098dc" 
+      color="#ffffff" 
+      padding="0 30px 15px 30px" 
+      border-radius="3px"
+      href="#">
         Read More
       </mj-button>
     </mj-column>
