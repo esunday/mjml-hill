@@ -3,12 +3,18 @@
   <mj-head>
     <mj-attributes>
       <mj-all font-family="Arial" color="#6c879d"/>
-      <mj-text font-size="14px"/>
+      <mj-text 
+        font-size="14px"
+        line-height="22px"
+      />
       <mj-text css-class="single-question" padding="0 15px" font-size="14px"/>
+      <mj-class name="h1" font-size="22px">
     </mj-attributes>
   </mj-head>
 
-  <mj-body>
+  <mj-body
+    width="640px"
+  >
 
     <mj-include path="./header.mjml" />
 

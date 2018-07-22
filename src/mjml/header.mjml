@@ -1,10 +1,15 @@
-<mj-section background-color="#002c4a">	
-  
+<mj-raw>
+<!-- Header Start -->
+</mj-raw>
+<mj-section 
+  background-color="#002c4a"
+>	  
   <mj-column vertical-align="middle">
     <mj-image 
-    align="left"
-    width="135px" 
-    src="https://i.imgur.com/rtluJY1.png" />
+      align="left"
+      width="135px" 
+      src="https://i.imgur.com/rtluJY1.png" 
+    />
   </mj-column>
   <mj-column vertical-align="middle">
     <mj-text
@@ -13,8 +18,11 @@
       color="#ffffff" 
       align="right"
       text-transform="uppercase">		
-      <h4 style="margin-top: 0; margin-bottom: 0; font-size:16; letter-spacing: 2px;">Hiller Highlights</h4>
+      <h4>Hiller Highlights</h4>
     </mj-text>
   </mj-column>
 
 </mj-section>
+<mj-raw>
+<!-- Header End -->
+</mj-raw>

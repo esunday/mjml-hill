@@ -16,14 +16,25 @@
       <mj-image 
         padding="0px"
         src="https://i.imgur.com/nrZFrdJ.png"/>
+      
     </mj-column>
 
-    <mj-column>
-      <mj-text>
-        <h3 style="font-size:20px;line-height:24px;margin-bottom:15px;margin-top:25px;">Jim Halpert</h3>
-        <p style="line-height: 22px; margin-bottom:0;">Praesent eu sapien vel mauris laoreet scelerisque. Morbi feugiat a tellus quis faucibus. Aenean dapibus nec enim id fringilla. Proin maximus malesuada tristique. Nulla a volutpat.</p>
-        <a href="#" style="text-decoration:none;"><p style="line-height: 22px;margin-bottom:30px;color:#0098dc;">Read Jim's Bio</p></a>
-      </mj-text>
+    <mj-column
+      padding-top="30px"
+    >
+      <mj-text
+        color="#002c4a"
+        font-size="23px">
+          <h3 style="margin: 0;">Jim Halpert</h3>
+        </mj-text>
+        <mj-text>
+        <p style="margin:0;">Praesent eu sapien vel mauris laoreet scelerisque. Morbi feugiat a tellus quis faucibus. Aenean dapibus nec enim id fringilla. Proin maximus malesuada tristique. Nulla a volutpat.</p>
+        </mj-text>
+        <mj-text>
+          <a href="#" style="text-decoration:none;"><p style="line-height: 22px;margin-bottom:30px;color:#0098dc;">Read Jim's Bio</p></a>
+        </mj-text>
+        
+    
     </mj-column>
   </mj-section>
 

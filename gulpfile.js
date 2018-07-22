@@ -14,7 +14,7 @@ function reload(done) {
 function serve(done) {
   server.init({
     server: {
-      baseDir: './dist'
+      baseDir: 'dist'
     }
   });
   done();
@@ -23,7 +23,19 @@ function serve(done) {
 const clean = () => del(['dist']);
 
 const email = () => {
-  return gulp.src('./src/mjml/index.mjml')
+  // return gulp.src('./src/mjml/index.mjml')
+  return gulp.src([
+      'src/mjml/index.mjml',
+      'src/mjml/cta.mjml',
+      'src/mjml/employee-spotlight.mjml',
+      'src/mjml/features.mjml',
+      'src/mjml/footer.mjml',
+      'src/mjml/header.mjml',
+      'src/mjml/hero.mjml',
+      'src/mjml/posts.mjml',
+      'src/mjml/seasonal-facts.mjml',
+      'src/mjml/weekly-promo.mjml',
+    ])
     // .pipe(mjml(mjmlEngine, {minify: true}))
     .pipe(mjml(mjmlEngine, {}))
     .pipe(gulp.dest('./dist'))
