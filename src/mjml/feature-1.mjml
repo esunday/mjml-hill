@@ -1,8 +1,8 @@
 <mj-raw>
-<!-- Feature 1 Start -->
+<!-- Feature Left Start -->
 </mj-raw>
 <mj-section
-background-color="#ffffff" 
+  background-color="#ffffff" 
   padding-bottom="0px" 
   padding-top="0"
   >
@@ -34,5 +34,5 @@ background-color="#ffffff"
 
 </mj-section>
 <mj-raw>
-<!-- Feature 1 End -->
+<!-- Feature Left End -->
 </mj-raw>
