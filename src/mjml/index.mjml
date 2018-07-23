@@ -4,11 +4,11 @@
     <mj-attributes>
       <mj-all font-family="Arial" color="#6c879d"/>
       <mj-text 
-        font-size="14px"
-        line-height="22px"/>
+        font-size="14px"/>
       <mj-text css-class="single-question" padding="0 15px" font-size="14px"/>
-      <mj-class name="h1" font-size="30px" line-height="36px"/>
+      <mj-class name="h1" font-size="21px"/>
       <mj-class name="special-heading" font-size="13px" align="center" color="white" font-size="9px" letter-spacing="5px" text-transform="uppercase"/>
+      <mj-class name="blue-head" color="#002c4a">
     </mj-attributes>
   </mj-head>
 

@@ -1,3 +1,6 @@
+<mj-raw>
+<!-- Seasonal Facts Start -->
+</mj-raw>
 <mj-wrapper 
 background-color="#edf6ff"
   vertical-align="middle"
@@ -48,3 +51,6 @@ background-color="#edf6ff"
     </mj-column>
   </mj-section>
 </mj-wrapper>
+<mj-raw>
+<!-- Seasonal Facts End -->
+</mj-raw>

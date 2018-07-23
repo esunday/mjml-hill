@@ -1,3 +1,6 @@
+<mj-raw>
+<!-- Feature 2 Start -->
+</mj-raw>
 <mj-section
 background-color="#ffffff" 
   padding-bottom="0px" 
@@ -40,3 +43,6 @@ eget metus.</p>
 
 
 </mj-section>
+<mj-raw>
+<!-- Feature 2 End -->
+</mj-raw>
