@@ -4,22 +4,21 @@
 <mj-section
     css-class="hero"
     height="600px"
-    background-url="https://i.imgur.com/4Qm0nZz.jpg" 
+    background-url="https://i.imgur.com/rA5iyS6.jpg" 
     vertical-align="middle" 
     background-size="cover" 
     background-repeat="no-repeat"
   >
   <mj-column 
     padding="0px"
-    width="100%" 
+    width="550px" 
     vertical-align="middle"
   >
     <mj-text 
       mj-class="h1"
       align="center" 
-      color="white" 
+      color="white"
       padding-bottom="10px"
-      line-height="45px"
       padding-top="45px"
     >
       <h1 style="margin: 0;">Keep Your Water Flowing</h1>
@@ -28,9 +27,9 @@
     align="center" 
     color="white" 
     line-height="26px"
+    font-size="16px"
     >
-      <p style="margin: 0 auto; max-width: 450px;"
-      font-size="16px">Hiller will be there in a snap to fix your plumbing, heating, cooling, and electrical issues.</p>
+      <p>Hiller will be there in a snap to fix your plumbing, heating, cooling, and electrical issues.</p>
     </mj-text>
     <mj-button 
       align="center" 

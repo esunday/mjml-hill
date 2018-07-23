@@ -1,27 +1,41 @@
-<mj-section background-url="https://i.imgur.com/w07h8s4.jpg" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
-  <mj-column width="100%" vertical-align="middle">
+<mj-raw>
+<!-- CTA Start -->
+</mj-raw>
+
+<mj-section background-url="https://i.imgur.com/uznlzTJ.jpg" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
+  <mj-column width="550px" vertical-align="middle">
     <mj-text 
     align="center" 
-    color="#ffffff" 
+    color="white" 
     padding-bottom="10px"
-    padding-top="45px">
-      <h2 
-      style="font-size: 30px; margin-top: 0; margin-bottom: 0;">
+    padding-top="45px"
+    font-size="20px"
+    line-height="36px">
+      <h2 style="margin-bottom: 0;">
       Happy Hillers Are Available 24/7!</h2>
     </mj-text>
     <mj-text
     align="center" 
-    color="#ffffff">
-      <p 
-      style="line-height: 26px; margin-top: 0; margin-bottom: 20px; margin-left: auto; margin-right: auto; max-width: 450px;"
-      font-size="16px">We would love for you to join the Happy Hiller Club family and we hope to keep you happy for many years to come.</p>
-      <p style="line-height: 26px; margin-top: 0; margin-bottom: 0; margin-left: auto; margin-right: auto; max-width: 450px;" font-size="16px">
-      Learn more about our Happy Hiller Club and everything it has to offer by visting our <a href="#" style="color: #ffdd02; text-decoration: none;">Happy Hiller Club Page.</a></p>
+    color="white"
+    line-height="26px"
+    font-size="16px">
+      <p>
+      We would love for you to join the Happy Hiller Club family and we hope to keep you happy for many years to come.</p>
+    </mj-text>
+    <mj-text
+    align="center" 
+    color="white"
+    line-height="26px"
+    font-size="16px">
+      <p>
+      Learn more about our Happy Hiller Club and everything it has to offer by visting our 
+      <a href="#" style="color: #ffdd02; text-decoration: none;">
+      Happy Hiller Club Page.</a></p>
     </mj-text>
     <mj-button 
       align="center" 
       background-color="transparent" 
-      color="#ffffff" 
+      color="white" 
       border-radius="4px" 
       border="2px solid white"
       href="#" 
@@ -32,3 +46,6 @@
     </mj-button>
   </mj-column>
 </mj-section>
+<mj-raw>
+<!-- CTA Start -->
+</mj-raw>

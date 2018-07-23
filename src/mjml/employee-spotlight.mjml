@@ -2,12 +2,9 @@
   <mj-section>
     <mj-column>
       <mj-text
-      color="#002c4a"
-      font-size="13px"
-      text-transform="uppercase"
-      letter-spacing="5px"
-      align="center">
-        <h2 style="font-size:13px;letter-spacing:5px;text-transform:uppercase;margin:0;">Employee Spotlight</h2>
+      mj-class="special-heading"
+      color="#002c4a">
+        <h2 style="margin:0;">Employee Spotlight</h2>
       </mj-text>
     </mj-column>
   </mj-section>

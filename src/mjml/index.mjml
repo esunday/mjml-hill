@@ -5,10 +5,10 @@
       <mj-all font-family="Arial" color="#6c879d"/>
       <mj-text 
         font-size="14px"
-        line-height="22px"
-      />
+        line-height="22px"/>
       <mj-text css-class="single-question" padding="0 15px" font-size="14px"/>
-      <mj-class name="h1" font-size="22px">
+      <mj-class name="h1" font-size="30px" line-height="36px"/>
+      <mj-class name="special-heading" font-size="13px" align="center" color="white" font-size="9px" letter-spacing="5px" text-transform="uppercase"/>
     </mj-attributes>
   </mj-head>
 
@@ -20,7 +20,9 @@
 
     <mj-include path="./hero.mjml" />
 
-    <mj-include path="./features.mjml" />
+    <mj-include path="./feature-1.mjml" />
+
+    <mj-include path="./feature-2.mjml" />
 
     <mj-include path="./seasonal-facts.mjml" />
 
