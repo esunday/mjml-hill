@@ -9,18 +9,9 @@
       />
       <mj-text 
         font-size="14px"
-        line-height="22px"/>
-      <mj-text 
-        css-class="single-question" 
-        padding="0 15px" 
-        font-size="14px"
+        line-height="22px"
       />
-      <mj-class 
-        name="font-test" 
-        font-size="30px" 
-        line-height="36px"
-      />
-      <mj-class 
+        <mj-class 
         name="blue-head" 
         color="#002c4a"
       />
