@@ -28,6 +28,10 @@
         letter-spacing="5px" 
         text-transform="uppercase"
       />
+      <mj-class 
+        name="blue-head" 
+        color="#002c4a"
+      >
     </mj-attributes>
     <mj-style inline="inline">
         h1, h2, h3, h4, h5 {
