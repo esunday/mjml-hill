@@ -69,6 +69,34 @@
       align="left"
       padding="0px 35px"
       />
+      <mj-image 
+      css-class="single-post-img"
+      border="none" 
+      width="150px" 
+      padding="0"
+        />
+         <mj-class
+      name="post-head"
+      align="left"
+      color="#002c4a"
+      font-size="20px" 
+      line-height="26px"
+      margin-top="15px"
+      />
+       <mj-class
+      name="posts-feed"
+      />
+        <mj-class
+        name="single-post-img"
+        width="25%" 
+        vertical-align="middle"
+      />
+        <mj-class
+        name="single-post"
+        width="74%" 
+        padding-left="15px" 
+        vertical-align="middle"
+      />
     </mj-attributes>
     <mj-style inline="inline">
         h1, h2, h3, h4, h5 {

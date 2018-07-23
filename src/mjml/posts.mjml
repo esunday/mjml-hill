@@ -1,60 +1,65 @@
  <mj-raw>
 <!-- Posts Start -->
 </mj-raw>
-   <mj-section css-class="posts-feed">
-      <mj-column css-class="single-post-img" width="25%">
-        <mj-image css-class="post-img" src="https://i.imgur.com/8OIrzWm.jpg"
-        border="none" 
-        width="150px" 
-        padding="0"
-        />
+<mj-wrapper mj-class="posts-section">
+ <mj-section mj-class="posts-feed" vertical-align="middle">
+      <mj-column mj-class="single-post-img">
+        <mj-image mj-class="post-img" src="https://i.imgur.com/8OIrzWm.jpg"/>
       </mj-column>
 
-      <mj-column css-class="single-post" width="74%" padding-left="15px">
-        <mj-text css-class="post-text">
-          <h3 class="blue-head">Hiller is Hiring</h3>
-          <p style="line-height: 22px;max-width:400px;">Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
-          <p><a href="#" style="line-height: 22px;color:#0098dc;text-decoration:none;">Read More</a></p></mj-text>
-      </mj-column>
-
-    </mj-section>
-
-    <mj-section css-class="posts-feed">
-      <mj-column css-class="single-post-img" width="25%">
-        <mj-image css-class="post-img" 
-        border="none" 
-        width="150px" 
-        padding="0"
-        src="https://i.imgur.com/Kj6ts80.jpg" />
-      </mj-column>
-
-      <mj-column css-class="single-post" width="74%" padding-left="15px">
-        <mj-text css-class="post-text">
-          <h3 class="blue-head">True Transparency Pricing</h3>
-          <p style="line-height: 22px;max-width:400px;">Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
-          <p><a href="#" style="line-height: 22px;color:#0098dc;text-decoration:none;">Read More</a></p></mj-text>
+      <mj-column mj-class="single-post">
+      <mj-text mj-class="post-head blue-head">
+      <h3>Hiller is Hiring</h3>
+      </mj-text>
+        <mj-text mj-class="post-text">
+          <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
+          </mj-text>
+          <mj-text mj-class="post-link">
+          <p><a href="#" style="color:#0098dc;text-decoration:none;">Read More</a></p>
+          </mj-text>
       </mj-column>
 
     </mj-section>
 
-
-    <mj-section css-class="posts-feed">
-      <mj-column css-class="single-post-img" width="25%">
-        <mj-image css-class="post-img" src="https://i.imgur.com/sdzgHco.jpg" 
-        border="none" 
-        width="150px"
-        padding="0"
-        />
+    <mj-section mj-class="posts-feed" vertical-align="middle">
+    <mj-column mj-class="single-post-img">
+        <mj-image mj-class="post-img" src="https://i.imgur.com/Kj6ts80.jpg"/>
       </mj-column>
 
-      <mj-column css-class="single-post" width="74%" padding-left="15px">
-        <mj-text css-class="post-text">
-          <h3 class="blue-head">Jimmy’s Fundamental of the Week</h3>
-          <p style="line-height: 22px;max-width:400px;">Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
-          <p><a href="#" style="line-height: 22px;color:#0098dc;text-decoration:none;">Read More</a></p></mj-text>
+      <mj-column mj-class="single-post">
+      <mj-text mj-class="post-head blue-head">
+      <h3>True Transparency Pricing</h3>
+      </mj-text>
+        <mj-text mj-class="post-text">
+          <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
+          </mj-text>
+          <mj-text mj-class="post-link">
+          <p><a href="#" style="color:#0098dc;text-decoration:none;">Read More</a></p>
+          </mj-text>
       </mj-column>
 
     </mj-section>
+
+
+    <mj-section mj-class="posts-feed" vertical-align="middle">
+      <mj-column mj-class="single-post-img">
+        <mj-image mj-class="post-img" src="https://i.imgur.com/sdzgHco.jpg"/>
+      </mj-column>
+
+      <mj-column mj-class="single-post">
+      <mj-text mj-class="post-head blue-head">
+      <h3>Jimmy’s Fundamental of the Week</h3>
+      </mj-text>
+        <mj-text mj-class="post-text">
+          <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
+          </mj-text>
+          <mj-text mj-class="post-link">
+          <p><a href="#" style="color:#0098dc;text-decoration:none;">Read More</a></p>
+          </mj-text>
+      </mj-column>
+
+    </mj-section>
+</mj-wrapper>
     <mj-raw>
 <!-- Posts End -->
 </mj-raw>

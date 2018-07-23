@@ -5,15 +5,16 @@
 background-color="#ffffff" 
   padding-bottom="0px" 
   padding-top="0"
+  vertical-align="middle"
   >
-  <mj-column width="320px">
+  <mj-column width="320px" vertical-align="middle">
     <mj-image 
     src="https://i.imgur.com/Fds6HuA.jpg" 
     alt="Woman Leaning Out Of A Window" 
     width="320px" 
     padding="0px">
     </mj-image>
-  </mj-column>
+  </mj-column vertical-align="middle">
   <mj-column width="320px">
    <mj-text 
    mj-class="feature-head">
