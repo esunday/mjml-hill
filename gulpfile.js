@@ -26,16 +26,6 @@ const email = () => {
   // return gulp.src('./src/mjml/index.mjml')
   return gulp.src([
       'src/mjml/index.mjml',
-      'src/mjml/cta.mjml',
-      'src/mjml/employee-spotlight.mjml',
-      'src/mjml/feature-1.mjml',
-      'src/mjml/feature-2.mjml',
-      'src/mjml/footer.mjml',
-      'src/mjml/header.mjml',
-      'src/mjml/hero.mjml',
-      'src/mjml/posts.mjml',
-      'src/mjml/seasonal-facts.mjml',
-      'src/mjml/weekly-promo.mjml',
     ])
     // .pipe(mjml(mjmlEngine, {minify: true}))
     .pipe(mjml(mjmlEngine, {}))
