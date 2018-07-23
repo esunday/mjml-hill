@@ -6,25 +6,25 @@
     <mj-text 
     align="center" 
     color="white" 
-    padding-bottom="10px"
-    padding-top="45px"
-    font-size="20px"
+    padding-bottom="10px" 
+    padding-top="45px" 
+    font-size="20px" 
     line-height="36px">
       <h2 style="margin-bottom: 0;">
       Happy Hillers Are Available 24/7!</h2>
     </mj-text>
     <mj-text
     align="center" 
-    color="white"
-    line-height="26px"
+    color="white" 
+    line-height="26px" 
     font-size="16px">
       <p>
       We would love for you to join the Happy Hiller Club family and we hope to keep you happy for many years to come.</p>
     </mj-text>
     <mj-text
     align="center" 
-    color="white"
-    line-height="26px"
+    color="white" 
+    line-height="26px" 
     font-size="16px">
       <p>
       Learn more about our Happy Hiller Club and everything it has to offer by visting our 
@@ -32,7 +32,7 @@
       Happy Hiller Club Page.</a></p>
     </mj-text>
     <mj-button 
-    mj-class="button-style button-white button-wide"
+    mj-class="button-style button-white button-wide" 
       align="center" 
       href="#">
       <span>Contact Us</span>

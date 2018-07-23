@@ -4,7 +4,7 @@
 <mj-section
 background-color="#ffffff" 
   padding-bottom="0px" 
-  padding-top="0"
+  padding-top="0" 
   vertical-align="middle"
   >
   <mj-column width="320px" vertical-align="middle">
@@ -16,19 +16,14 @@ background-color="#ffffff"
     </mj-image>
   </mj-column vertical-align="middle">
   <mj-column width="320px">
-   <mj-text 
-   mj-class="feature-head">
+   <mj-text mj-class="feature-head">
       <h3>Spring Cleaning Checklist</h3>
     </mj-text>
-    <mj-text
-    mj-class="feature-text"
-    >
+    <mj-text mj-class="feature-text">
     <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
     </mj-text>
     <mj-button 
-      mj-class="button-style button-blue"
-      align="left"
-      >
+      mj-class="button-style button-blue" align="left">
         <span style="letter-spacing:.4px;">Read More</span>
     </mj-button>
   </mj-column>

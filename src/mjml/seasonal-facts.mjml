@@ -1,34 +1,18 @@
 <mj-raw>
 <!-- Seasonal Facts Start -->
 </mj-raw>
-<mj-wrapper 
-  background-color="#edf6ff"
-  vertical-align="middle"
->
-  <mj-section
-     padding-bottom="0px"
-  >
-    <mj-column
-      padding-top="0px"
-    >
-      <mj-text 
-        mj-class="blue-head"
-        align="center"
-      >
+<mj-wrapper background-color="#edf6ff" vertical-align="middle">
+  <mj-section padding-bottom="0px">
+    <mj-column padding-top="0px">
+      <mj-text mj-class="blue-head" align="center">
         <h3 class="special-heading">Seasonal Facts</h3>
       </mj-text>
-      <mj-text
-        align="center"
-        font-style="italic"
-      >
+      <mj-text align="center" font-style="italic">
         <p>Memorial Day is also called Decoration Day because of the tradition of mourners honoring Civil War dead by decorating their graves with flowers.</p>
       </mj-text>
     </mj-column>
   </mj-section>
-  <mj-section
-    padding-left="8px"
-    padding-right="8px"
-  >
+  <mj-section padding-left="8px" padding-right="8px">
     <mj-include path="./post-preview.mjml"/>
     <mj-include path="./post-preview.mjml"/>
   </mj-section>

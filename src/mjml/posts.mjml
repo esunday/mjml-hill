@@ -2,63 +2,9 @@
 <!-- Posts Start -->
 </mj-raw>
 <mj-wrapper mj-class="posts-section">
- <mj-section mj-class="posts-feed" vertical-align="middle">
-      <mj-column mj-class="single-post-img">
-        <mj-image mj-class="post-img" src="https://i.imgur.com/8OIrzWm.jpg"/>
-      </mj-column>
-
-      <mj-column mj-class="single-post">
-      <mj-text mj-class="post-head blue-head">
-      <h3>Hiller is Hiring</h3>
-      </mj-text>
-        <mj-text mj-class="post-text">
-          <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
-          </mj-text>
-          <mj-text mj-class="post-link">
-          <p><a href="#" style="color:#0098dc;text-decoration:none;">Read More</a></p>
-          </mj-text>
-      </mj-column>
-
-    </mj-section>
-
-    <mj-section mj-class="posts-feed" vertical-align="middle">
-    <mj-column mj-class="single-post-img">
-        <mj-image mj-class="post-img" src="https://i.imgur.com/Kj6ts80.jpg"/>
-      </mj-column>
-
-      <mj-column mj-class="single-post">
-      <mj-text mj-class="post-head blue-head">
-      <h3>True Transparency Pricing</h3>
-      </mj-text>
-        <mj-text mj-class="post-text">
-          <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
-          </mj-text>
-          <mj-text mj-class="post-link">
-          <p><a href="#" style="color:#0098dc;text-decoration:none;">Read More</a></p>
-          </mj-text>
-      </mj-column>
-
-    </mj-section>
-
-
-    <mj-section mj-class="posts-feed" vertical-align="middle">
-      <mj-column mj-class="single-post-img">
-        <mj-image mj-class="post-img" src="https://i.imgur.com/sdzgHco.jpg"/>
-      </mj-column>
-
-      <mj-column mj-class="single-post">
-      <mj-text mj-class="post-head blue-head">
-      <h3>Jimmy’s Fundamental of the Week</h3>
-      </mj-text>
-        <mj-text mj-class="post-text">
-          <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
-          </mj-text>
-          <mj-text mj-class="post-link">
-          <p><a href="#" style="color:#0098dc;text-decoration:none;">Read More</a></p>
-          </mj-text>
-      </mj-column>
-
-    </mj-section>
+<mj-include path="./post-content.mjml"/>
+<mj-include path="./post-content.mjml"/>
+<mj-include path="./post-content.mjml"/>
 </mj-wrapper>
     <mj-raw>
 <!-- Posts End -->

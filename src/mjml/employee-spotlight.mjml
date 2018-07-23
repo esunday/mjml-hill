@@ -5,29 +5,19 @@
 <mj-wrapper>
   <mj-section>
     <mj-column>
-      <mj-text
-        mj-class="special-heading blue-head"
-        color="#002c4a"
-      >
+      <mj-text mj-class="special-heading blue-head" color="#002c4a">
         <h3>Employee Spotlight</h3>
       </mj-text>
     </mj-column>
   </mj-section>
   <mj-section background-color="#edf6ff" padding="0">
     <mj-column>
-      <mj-image 
-        padding="0px"
-        src="https://i.imgur.com/nrZFrdJ.png"
-      />
+      <mj-image padding="0px" src="https://i.imgur.com/nrZFrdJ.png"/>
       
     </mj-column>
 
-    <mj-column
-      padding-top="30px"
-    >
-      <mj-text
-        color="#002c4a"
-        font-size="23px">
+    <mj-column padding-top="30px">
+      <mj-text color="#002c4a" font-size="23px">
           <h3 style="margin: 0;">Jim Halpert</h3>
         </mj-text>
         <mj-text>

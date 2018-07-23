@@ -2,37 +2,17 @@
 <!-- Weekly Promo Start -->
 </mj-raw>
 <mj-section background-url="https://i.imgur.com/JTja9xT.jpg" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
-  <mj-column 
-    width="550px" 
-    vertical-align="middle" 
-    padding-top="20px"
-  >
-    <mj-text 
-      align="center"
-      color="white"
-      padding-bottom="25px"
-    >
+  <mj-column width="550px" vertical-align="middle" padding-top="20px">
+    <mj-text align="center" color="white" padding-bottom="25px">
       <h3 class="special-heading">Weekly Promotion</h3>
     </mj-text>
-    <mj-text
-      align="center" 
-      color="white"
-    >
+    <mj-text align="center" color="white">
       <h4 style="font-size:30px;">0% Interest or Save $1,500</h4>
     </mj-text>
-    <mj-text
-      align="center" 
-      color="white"
-      line-height="26px"
-      font-size="16px"
-    >
+    <mj-text align="center" color="white" line-height="26px" font-size="16px">
       <p>Stay cool this summer with a brand new HVAC system!</p>
     </mj-text>
-    <mj-button 
-    mj-class="button-style button-white button-wide"
-      align="center" 
-      href="#"
-      >
+    <mj-button mj-class="button-style button-white button-wide" align="center" href="#">
       <span>Learn More</span>
     </mj-button>
   </mj-column>

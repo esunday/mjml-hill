@@ -1,0 +1,17 @@
+ <mj-section mj-class="posts-feed" vertical-align="middle">
+      <mj-column mj-class="single-post-img">
+        <mj-image mj-class="post-img" src="https://i.imgur.com/8OIrzWm.jpg"/>
+      </mj-column>
+
+      <mj-column mj-class="single-post">
+      <mj-text mj-class="post-head">
+      <h3>Hiller is Hiring</h3>
+      </mj-text>
+        <mj-text mj-class="post-text">
+          <p style="margin-top:10px;">Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta eget metus. Donec ullamcorper nulla non metus a flec. Donec ullamcorper nulla non metus.</p>
+          </mj-text>
+          <mj-text mj-class="post-link">
+          <p style="margin-top:0;"><a href="#" style="color:#0098dc;text-decoration:none;margin:0;">Read More</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
