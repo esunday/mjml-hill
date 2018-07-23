@@ -19,8 +19,9 @@
       align="center" 
       color="white"
       padding-bottom="10px"
-      padding-top="45px"
+      padding-top="65px"
       line-height="36px"
+      font-size="21px"
     >
       <h1 style="margin: 0;">Keep Your Water Flowing</h1>
     </mj-text>
@@ -33,18 +34,12 @@
       <p>Hiller will be there in a snap to fix your plumbing, heating, cooling, and electrical issues.</p>
     </mj-text>
     <mj-button
-      padding="15px 30px" 
-      border-radius="3px" 
-      href="#"
-      font-weight="bold"
+    mj-class="button-style button-white button-wide"
+    href="#" 
       align="center" 
-      background-color="transparent" 
-      color="white"
-      border="2px solid white"
-      href="#" 
-      width="192px"
-      padding-bottom="45px" 
-      padding-top="10px">
+      padding-top="15px"
+      padding-bottom="65px"
+      >
       <span style="letter-spacing:.4px;">Learn More</span>
     </mj-button>
   </mj-column>

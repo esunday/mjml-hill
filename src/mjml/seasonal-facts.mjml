@@ -22,12 +22,8 @@ background-color="#edf6ff"
         <p style="line-height: 22px;">Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
       </mj-text>
     </mj-button>
-      <mj-button css-class="button-wide" 
-      width="192px" 
-      background-color="#0098dc" 
-      color="#ffffff" 
-      padding="0 30px 15px 30px" 
-      border-radius="3px"
+      <mj-button 
+      mj-class="button-wide button-style button-blue"
       href="#">
         Get Recipe
       </mj-button>
@@ -39,12 +35,8 @@ background-color="#edf6ff"
         <h4 class="blue-head" style="font-size:20px; line-height: 24px; margin-bottom: 15px;">Top 10 Ways to Beat the Summer Heat</h4>
         <p style="line-height: 22px; margin-bottom:0;">Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
       </mj-text>
-      <mj-button css-class="button-wide" 
-      width="192px" 
-      background-color="#0098dc" 
-      color="#ffffff" 
-      padding="0 30px 15px 30px" 
-      border-radius="3px"
+      <mj-button 
+      mj-class="button-style button-blue button-wide"
       href="#">
         Read More
       </mj-button>

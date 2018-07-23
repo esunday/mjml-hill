@@ -32,15 +32,9 @@
       Happy Hiller Club Page.</a></p>
     </mj-text>
     <mj-button 
+    mj-class="button-style button-white button-wide"
       align="center" 
-      background-color="transparent" 
-      color="white" 
-      border-radius="4px" 
-      border="2px solid white"
-      href="#"
-      width="192px"
-      padding-bottom="45px" 
-      padding-top="10px">
+      href="#">
       <span>Contact Us</span>
     </mj-button>
   </mj-column>
