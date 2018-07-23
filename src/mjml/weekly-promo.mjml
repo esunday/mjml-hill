@@ -8,17 +8,17 @@
     padding-top="20px"
   >
     <mj-text 
-      mj-class="special-heading"
+      align="center"
+      color="white"
+      padding-bottom="25px"
     >
-      <h2>Weekly Promotion</h2>
+      <h3 class="special-heading">Weekly Promotion</h3>
     </mj-text>
     <mj-text
       align="center" 
       color="white"
-      font-size="26px"
-      line-height="32px"
     >
-      <h3>0% Interest or Save $1,500</h3>
+      <h4 style="font-size:30px;">0% Interest or Save $1,500</h4>
     </mj-text>
     <mj-text
       align="center" 

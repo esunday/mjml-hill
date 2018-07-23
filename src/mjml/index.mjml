@@ -3,8 +3,9 @@
   <mj-head>
     <mj-attributes>
       <mj-all 
-        font-family="Arial" 
+        font-family="Helvetica, Arial" 
         color="#6c879d"
+        font-weight="300"
       />
       <mj-text 
         font-size="14px"
@@ -18,15 +19,6 @@
         name="font-test" 
         font-size="30px" 
         line-height="36px"
-      />
-      <mj-class 
-        name="special-heading" 
-        font-size="13px" 
-        align="center" 
-        color="white" 
-        font-size="9px" 
-        letter-spacing="5px" 
-        text-transform="uppercase"
       />
       <mj-class 
         name="blue-head" 
@@ -74,6 +66,17 @@
         h1, h2, h3, h4, h5 {
           margin-top: 0;
           margin-bottom: 0;
+        }
+        .special-heading {
+          font-size: 13px;
+          font-weight: 600;
+          letter-spacing: 5px;
+          text-transform: uppercase;
+          display: inline-block;
+        }
+        .post-preview__title {
+          font-size:20px; 
+          line-height: 24px;
         }
     </mj-style>
   </mj-head>

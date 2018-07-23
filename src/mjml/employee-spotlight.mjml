@@ -6,9 +6,10 @@
   <mj-section>
     <mj-column>
       <mj-text
-      mj-class="special-heading"
-      color="#002c4a">
-        <h2 style="margin:0;">Employee Spotlight</h2>
+        mj-class="special-heading blue-head"
+        color="#002c4a"
+      >
+        <h3>Employee Spotlight</h3>
       </mj-text>
     </mj-column>
   </mj-section>
@@ -16,7 +17,8 @@
     <mj-column>
       <mj-image 
         padding="0px"
-        src="https://i.imgur.com/nrZFrdJ.png"/>
+        src="https://i.imgur.com/nrZFrdJ.png"
+      />
       
     </mj-column>
 
