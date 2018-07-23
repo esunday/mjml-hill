@@ -8,8 +8,9 @@
       <mj-text
         mj-class="special-heading blue-head"
         color="#002c4a"
+        align="center"
       >
-        <h3>Employee Spotlight</h3>
+        <h3 class="special-heading">Employee Spotlight</h3>
       </mj-text>
     </mj-column>
   </mj-section>
