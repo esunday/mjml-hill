@@ -1,5 +1,7 @@
     <mj-column 
-      padding="0 16px"
+      background-color="white"
+      padding="0 0 15px 0"
+      border="10px solid #edf6ff"
     >
       <mj-image 
         css-class="season-img" 
@@ -17,7 +19,7 @@
           <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
         </mj-text>
         <mj-button
-          css-class="button-blue button-wide"
+          mj-class="button-style button-blue button-wide"
           href="#"
         >
           <span>Get Recipe</span>
