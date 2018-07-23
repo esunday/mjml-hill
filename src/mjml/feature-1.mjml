@@ -1,38 +1,39 @@
 <mj-raw>
-<!-- Feature Left Start -->
+<!-- Feature 1 Start -->
 </mj-raw>
 <mj-section
-  background-color="#ffffff" 
+background-color="#ffffff" 
   padding-bottom="0px" 
   padding-top="0"
   >
-  <mj-column width="50%">
-    <mj-image 
-    src="https://cdn2.hubspot.net/hubfs/2652814/featurette-image.jpg" 
-    alt="Woman Leaning Out Of A Window" 
-    padding="0px">
-    </mj-image>
-  </mj-column>
-  <mj-column width="50%">
-   <mj-text 
-   mj-class="feature-head">
-      <h3>Spring Cleaning Checklist</h3>
-    </mj-text>
-    <mj-text
-    mj-class="feature-text"
-    >
-    <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
-    </mj-text>
-    <mj-button 
-      mj-class="button-style button-blue"
-      align="left"
+  <mj-group>
+    <mj-column>
+      <mj-image 
+      src="https://cdn2.hubspot.net/hubfs/2652814/Fds6HuA.jpg" 
+      alt="Woman Leaning Out Of A Window" 
+      padding="0px">
+      </mj-image>
+    </mj-column>
+    <mj-column>
+    <mj-text 
+    mj-class="feature-head">
+        <h3>Spring Cleaning Checklist</h3>
+      </mj-text>
+      <mj-text
+      mj-class="feature-text"
       >
-        <span style="letter-spacing:.4px;">Read More</span>
-    </mj-button>
-  </mj-column>
-
+      <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe eget metus.</p>
+      </mj-text>
+      <mj-button 
+        mj-class="button-style button-blue"
+        align="left"
+        >
+          <span style="letter-spacing:.4px;">Read More</span>
+      </mj-button>
+    </mj-column>
+  </mj-group>
 
 </mj-section>
 <mj-raw>
-<!-- Feature Left End -->
+<!-- Feature 1 End -->
 </mj-raw>

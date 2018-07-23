@@ -6,31 +6,31 @@ background-color="#ffffff"
   padding-bottom="0px" 
   padding-top="0"
   >
+  <mj-group>
+    <mj-column>
+      <mj-text 
+      mj-class="feature-head"
+      >
+        <h3>Time to Change Your Air Filter</h3>
+      </mj-text>
+      <mj-text
+      mj-class="feature-text"
+      >
+      <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe
+  eget metus.</p>
+      </mj-text>
+      <mj-button
+      mj-class="button-style button-blue"
+      align="left"
+      >
+          <span style="letter-spacing:.4px;">Read More</span>
+      </mj-button>
+    </mj-column>
 
-  <mj-column width="320px">
-    <mj-text 
-    mj-class="feature-head"
-    >
-      <h3>Time to Change Your Air Filter</h3>
-    </mj-text>
-    <mj-text
-    mj-class="feature-text"
-    >
-     <p>Donec ullamcorper nulla non metus fringilla. Donec id elit non mi porta afe
-eget metus.</p>
-    </mj-text>
-    <mj-button
-    mj-class="button-style button-blue"
-    align="left"
-    >
-        <span style="letter-spacing:.4px;">Read More</span>
-    </mj-button>
-  </mj-column>
-
-  <mj-column width="320px">
-    <mj-image   width="320px" src="https://cdn2.hubspot.net/hubfs/2652814/featurette-image.jpg" alt="Man Changing Air Filter" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
-  </mj-column>
-
+    <mj-column>
+      <mj-image src="https://cdn2.hubspot.net/hubfs/2652814/featurette-image.jpg" alt="Man Changing Air Filter" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+    </mj-column>
+  </mj-group>
 
 </mj-section>
 <mj-raw>

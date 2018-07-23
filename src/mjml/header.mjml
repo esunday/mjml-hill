@@ -4,25 +4,26 @@
 <mj-section 
   background-color="#002c4a"
 >	  
-  <mj-column vertical-align="middle">
-    <mj-image 
-      align="left"
-      width="135px" 
-      src="https://i.imgur.com/rtluJY1.png" 
-    />
-  </mj-column>
-  <mj-column vertical-align="middle">
-    <mj-text
-      vertical-align="middle"
-      font-size="16px"
-      color="#ffffff" 
-      align="right"
-      text-transform="uppercase"
-      letter-spacing="2px">		
-      <h4>Hiller Highlights</h4>
-    </mj-text>
-  </mj-column>
-
+  <mj-group>
+    <mj-column vertical-align="middle">
+      <mj-image 
+        align="left"
+        width="135px" 
+        src="https://i.imgur.com/rtluJY1.png" 
+      />
+    </mj-column>
+    <mj-column vertical-align="middle">
+      <mj-text
+        vertical-align="middle"
+        font-size="16px"
+        color="#ffffff" 
+        align="right"
+        text-transform="uppercase"
+        letter-spacing="2px">		
+        <h4>Hiller Highlights</h4>
+      </mj-text>
+    </mj-column>
+  </mj-group>
 </mj-section>
 <mj-raw>
 <!-- Header End -->
