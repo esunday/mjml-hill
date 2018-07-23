@@ -9,22 +9,13 @@
       />
       <mj-text 
         font-size="14px"
-        line-height="22px"/>
-      <mj-text 
-        css-class="single-question" 
-        padding="0 15px" 
-        font-size="14px"
-      />
-      <mj-class 
-        name="font-test" 
-        font-size="30px" 
-        line-height="36px"
-      />
-      <mj-class 
+        line-height="22px"
+        />
+        <mj-class 
         name="blue-head" 
         color="#002c4a"
       />
-      <mj-class
+      <mj-class 
         name="button-style"
         padding="20px 35px" 
         border-radius="6px"
@@ -47,6 +38,16 @@
       <mj-class
         name="button-wide"
         width="192px"
+      />
+      <mj-text 
+        css-class="single-question" 
+        padding="0 15px" 
+        font-size="14px"
+      />
+      <mj-class 
+        name="font-test" 
+        font-size="30px" 
+        line-height="36px"
       />
       <mj-class
         name="feature-head"
@@ -88,6 +89,11 @@
         width="74%" 
         padding-left="15px" 
         vertical-align="middle"
+      />
+      <mj-class 
+      name="social-image" 
+      width="16px" 
+      padding="15px 0"
       />
     </mj-attributes>
     <mj-style inline="inline">
