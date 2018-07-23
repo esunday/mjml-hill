@@ -1,5 +1,5 @@
 <mj-raw>
-<!-- Seasonal Facts Start -->
+<!-- Featured Posts Start -->
 </mj-raw>
 <mj-wrapper 
   background-color="#edf6ff"
@@ -34,5 +34,5 @@
   </mj-section>
 </mj-wrapper>
 <mj-raw>
-<!-- Seasonal Facts End -->
+<!-- Featured Posts End -->
 </mj-raw>

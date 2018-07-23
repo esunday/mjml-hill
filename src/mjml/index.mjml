@@ -84,7 +84,7 @@
 
     <mj-include path="./feature-2.mjml" />
 
-    <mj-include path="./seasonal-facts.mjml" />
+    <mj-include path="./featured-posts.mjml" />
 
     <mj-include path="./posts.mjml" />
 
