@@ -2,23 +2,30 @@
 <!-- Weekly Promo Start -->
 </mj-raw>
 <mj-section background-url="https://i.imgur.com/JTja9xT.jpg" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
-  <mj-column width="550px" vertical-align="middle" padding-top="20px">
+  <mj-column 
+    width="550px" 
+    vertical-align="middle" 
+    padding-top="20px"
+  >
     <mj-text 
-    mj-class="special-heading">
-    <h2 style="font-weight:normal;margin-top:0;margin-bottom:25px;">Weekly Promotion</h2>
+      mj-class="special-heading"
+    >
+      <h2>Weekly Promotion</h2>
     </mj-text>
     <mj-text
-    align="center" 
-    color="white"
-    font-size="26px"
-    line-height="32px">
-    <h3 style="margin:0;">0% Interest or Save $1,500</h3>
+      align="center" 
+      color="white"
+      font-size="26px"
+      line-height="32px"
+    >
+      <h3>0% Interest or Save $1,500</h3>
     </mj-text>
     <mj-text
-    align="center" 
-    color="white"
-    line-height="26px"
-    font-size="16px">
+      align="center" 
+      color="white"
+      line-height="26px"
+      font-size="16px"
+    >
       <p>Stay cool this summer with a brand new HVAC system!</p>
     </mj-text>
     <mj-button 
@@ -30,7 +37,8 @@
       href="#"
       width="192px"
       padding-bottom="35px" 
-      padding-top="10px">
+      padding-top="10px"
+    >
       <span>Learn More</span>
     </mj-button>
   </mj-column>
