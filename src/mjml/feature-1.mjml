@@ -6,14 +6,14 @@
   padding-bottom="0px" 
   padding-top="0"
   >
-  <mj-column width="320px">
+  <mj-column width="50%">
     <mj-image 
     src="https://cdn2.hubspot.net/hubfs/2652814/featurette-image.jpg" 
     alt="Woman Leaning Out Of A Window" 
     padding="0px">
     </mj-image>
   </mj-column>
-  <mj-column width="320px">
+  <mj-column width="50%">
    <mj-text 
    mj-class="feature-head">
       <h3>Spring Cleaning Checklist</h3>
