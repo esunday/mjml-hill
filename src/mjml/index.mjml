@@ -61,8 +61,8 @@
         align="left"
         padding="0px 35px"
       />
-      <mj-image 
-      css-class="single-post-img"
+      <mj-class 
+      name="post-img"
       border="none" 
       width="150px" 
       padding="0"
