@@ -1,4 +1,7 @@
-    <mj-section css-class="posts-feed">
+ <mj-raw>
+<!-- Posts Start -->
+</mj-raw>
+   <mj-section css-class="posts-feed">
       <mj-column css-class="single-post-img" width="25%">
         <mj-image css-class="post-img" src="https://i.imgur.com/8OIrzWm.jpg"
         border="none" 
@@ -52,3 +55,6 @@
       </mj-column>
 
     </mj-section>
+    <mj-raw>
+<!-- Posts End -->
+</mj-raw>

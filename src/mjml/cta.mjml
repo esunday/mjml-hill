@@ -1,7 +1,6 @@
 <mj-raw>
 <!-- CTA Start -->
 </mj-raw>
-
 <mj-section background-url="https://i.imgur.com/uznlzTJ.jpg" vertical-align="middle" background-size="cover" background-repeat="no-repeat">
   <mj-column width="550px" vertical-align="middle">
     <mj-text 
@@ -38,7 +37,7 @@
       color="white" 
       border-radius="4px" 
       border="2px solid white"
-      href="#" 
+      href="#"
       width="192px"
       padding-bottom="45px" 
       padding-top="10px">
@@ -47,5 +46,5 @@
   </mj-column>
 </mj-section>
 <mj-raw>
-<!-- CTA Start -->
+<!-- CTA End -->
 </mj-raw>

@@ -1,13 +1,14 @@
+<mj-raw>
+<!-- Feature 1 Start -->
+</mj-raw>
 <mj-section
 background-color="#ffffff" 
   padding-bottom="0px" 
   padding-top="0"
   >
-
   <mj-column>
     <mj-image src="https://i.imgur.com/Fds6HuA.jpg" alt="Woman Leaning Out Of A Windo" width="301px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
   </mj-column>
-
   <mj-column>
    <mj-text 
       align="left"
@@ -40,3 +41,6 @@ eget metus.</p>
 
 
 </mj-section>
+<mj-raw>
+<!-- Feature 1 End -->
+</mj-raw>
